@@ -1,0 +1,15 @@
+export const Images = {
+  fcBackground: require('@assets/images/Background_img.png'),
+  Dot_brand: require('@assets/images/Dot_brand.png'),
+  gate_brand: require('@assets/images/gate_brand.png'),
+  Line_brand: require('@assets/images/Line_brand.png'),
+  Smile_brand: require('@assets/images/Smile_brand.png'),
+  logo_3_logotype: require('@assets/images/FC.APP_logo_3_logotype.png'),
+  BgVector: require('@assets/images/BgVector.png'),
+  BgFVector: require('@assets/images/BgFVector.png'),
+  Coach: require('@assets/images/coach.png'),
+  Viewers: require('@assets/images/Viewers.png'),
+  Organizator: require('@assets/images/Organizator.png'),
+  Player: require('@assets/images/Player.png'),
+  Gradient: require('@assets/images/Gradient.png'),
+};
